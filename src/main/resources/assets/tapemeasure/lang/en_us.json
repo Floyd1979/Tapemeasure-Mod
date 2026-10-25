@@ -1,0 +1,14 @@
+{
+	"key.category.tapemeasure.general": "Tape Measure",
+	"key.tapemeasure.point1": "Set first point (corner 1, start, center)",
+	"key.tapemeasure.point2": "Set next point (corner 2, end, edge, add)",
+	"key.tapemeasure.undo": "Remove last point",
+	"key.tapemeasure.clear": "Clear measurement",
+	"key.tapemeasure.mode": "Next mode",
+	"key.tapemeasure.hud": "Show or hide the panel",
+	"key.tapemeasure.visible": "Show or hide everything",
+	"key.tapemeasure.count": "Count blocks in selection",
+	"key.tapemeasure.settings": "Open settings",
+	"key.tapemeasure.grow": "Grow the side you look at by 1",
+	"key.tapemeasure.shrink": "Shrink the side you look at by 1"
+}

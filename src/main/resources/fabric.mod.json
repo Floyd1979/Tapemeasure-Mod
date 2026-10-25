@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "tapemeasure",
+	"version": "${version}",
+	"name": "Tape Measure",
+	"description": "Client side measuring tool with WorldEditCUI style outlines. Measure boxes, lines, paths, polygons and circles, and count the blocks inside a selection.",
+	"authors": [
+		"Ray"
+	],
+	"icon": "assets/tapemeasure/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.divinitysreach.tapemeasure.TapeMeasureClient"
+		],
+		"modmenu": [
+			"com.divinitysreach.tapemeasure.gui.ModMenuIntegration"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}
